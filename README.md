@@ -11,7 +11,7 @@
 
 - ⚡ My motto is finding solutions to problems!
 
-### Github stats
+### Stats! 🔭
 
 ![](https://github.com/sdurban/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/sdurban/github-stats/blob/master/generated/languages.svg)
