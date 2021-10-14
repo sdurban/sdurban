@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/f1012544-40f3-41f8-b83f-e9ad6f1651ba.svg)](https://wakatime.com/@f1012544-40f3-41f8-b83f-e9ad6f1651ba)
 
 - 🔭 I’m currently working at [Leadtech](https://leadtech.com/) a company with a lot of projects! 
 
