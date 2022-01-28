@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at [Leadtech](https://leadtech.com/) a company with a lot of projects! 
 
-- ✨ Right now i'm studying master degree in mobile development (iOS, Android and multiplatform) at [UOC](https://www.uoc.edu/portal/en/index.html).
+- ✨ Finished recenctly a master degree in mobile development (iOS, Android and multiplatform) at [UOC](https://www.uoc.edu/portal/en/index.html).
 
 - 😄 Worked as:
   - DevOps (AWS). 
